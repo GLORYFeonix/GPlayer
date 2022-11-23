@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GPlayer", "GPlayer\GPlayer.csproj", "{681DD814-CB1B-4BC6-B93D-088A679B2460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPlayer_6", "GPlayer_6\GPlayer_6.csproj", "{E1D70272-4A9D-49CB-9113-BAC8E9852614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681DD814-CB1B-4BC6-B93D-088A679B2460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681DD814-CB1B-4BC6-B93D-088A679B2460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681DD814-CB1B-4BC6-B93D-088A679B2460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681DD814-CB1B-4BC6-B93D-088A679B2460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D70272-4A9D-49CB-9113-BAC8E9852614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D70272-4A9D-49CB-9113-BAC8E9852614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D70272-4A9D-49CB-9113-BAC8E9852614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D70272-4A9D-49CB-9113-BAC8E9852614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E526E9BA-F663-4658-98CB-F495BB596841}
+	EndGlobalSection
+EndGlobal
